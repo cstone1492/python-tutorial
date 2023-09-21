@@ -55,4 +55,4 @@ VSCode is an open-source code editor with a lot of fun extensions.
    - if this returns 'command not found', you need to set the Python Path variable on your system. Here's a guide: https://www.educative.io/answers/how-to-add-python-to-path-variable-in-windows
 
 
-That's it! You will know be able to write and run python scripts. 
+That's it! You will now be able to write and run python scripts. 
